@@ -1,0 +1,12 @@
+.contain {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+    justify-content: cneter;
+    align-items: center;
+}
+
+.items {
+    flex: auto;
+}
